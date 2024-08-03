@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "un tableau de bord pour le centre de recherche sur l'information scientifique et technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhM-Nada/Dashbord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhM-Nada/Dashbord/issues"
+  },
+  "homepage": "https://github.com/GhM-Nada/Dashbord#readme"
+}
